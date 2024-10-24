@@ -3,5 +3,6 @@ PortfolioProject1: This project dealt with Data Exploration in MySQL WorkBench u
 PortfolioProject2: This project dealt with Data Cleaning in MySQL WorkBench using the Nashville Housing Dataset (Nashville Housing Data for Data Cleaning.xlsx)
 
 PortfolioProject3: In this project, a dashboard was created using a dataset in Excel about bike sales (https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) See below image for reference
+
 <img width="436" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/e920b638-a8cc-4b0d-adb8-0e6278e9638c">
 
