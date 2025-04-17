@@ -10,5 +10,6 @@ PortfolioProject4: In this project, I used Tableau to create multiple visualizat
 
 <img width="803" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/12819479-86fb-442b-a935-21336fa426be">
 
-Extracting and Visualizing Stock Data: In this project, I extracted stock data, using yfinance and webscraping, before visualizing the data on a graph
+Extracting and Visualizing Stock Data: In this project, I extracted stock data, using yfinance and webscraping, before visualizing the data on a graph. Link to Tesla Revenue Dataset - https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm
 
+Project Case_Boston Housing: In this project, I applied statistical techniques such as T-test, ANOVA, Pearson correlation, and regression analysis on the Boston Housing dataset to uncover meaningful insights. I also included various data visualizations to support the analysis. Link to Boston Housing Dataset - https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/boston_housing.csv
