@@ -10,3 +10,5 @@ PortfolioProject4: In this project, I used Tableau to create multiple visualizat
 
 <img width="803" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/12819479-86fb-442b-a935-21336fa426be">
 
+Extracting and Visualizing Stock Data: In this project, I extracted stock data, using yfinance and webscraping, before visualizing the data on a graph
+
