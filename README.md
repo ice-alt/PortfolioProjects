@@ -14,6 +14,7 @@ Extracting and Visualizing Stock Data: In this project, I extracted stock data, 
 
 Project Case_Boston Housing: In this project, I applied statistical techniques such as T-test, ANOVA, Pearson correlation, and regression analysis on the Boston Housing dataset to uncover meaningful insights. I also included various data visualizations to support the analysis. Link to Boston Housing Dataset - https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/boston_housing.csv
 
+
 SQLite_Analysis_of_Chicago_Datasets: This project involves data analysis of three datasets, available on the Chicago Data Portal, using SQLite for data management and manipulation.
 - Link to Chicago Census Dataset - https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/FinalModule_Coursera_V5/data/ChicagoCensusData.csv?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2021-01-01
 - Link to Chicago Public Schools Dataset - https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DB0201EN-SkillsNetwork/labs/FinalModule_Coursera_V5/data/ChicagoPublicSchools.csv?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDB0201ENSkillsNetwork20127838-2021-01-01
